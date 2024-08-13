@@ -1,8 +1,8 @@
-*QuizUp! - The Ultimate College Quiz Game*
+*QuizUp! - The Ultimate TVET Nated Quiz Game*
 
 *Introduction*
 
-Welcome to QuizUp!, a fun and challenging online quiz game designed specifically for college students. Test your knowledge, compete with friends, and climb the leaderboards in this engaging and educational experience.
+Welcome to QuizUp!, a fun and challenging online quiz game designed specifically for TVET Nated students. Test your knowledge, compete with friends, and climb the leaderboards in this engaging and educational experience.
 
 *Game Features*
 
